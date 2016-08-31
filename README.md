@@ -4,7 +4,7 @@ This repository contains projects from the data structures and algorithms course
 ##Int_Set
 A straightforward integer implementation of the set data type.
 
-##Template Sequence
+##Template_Sequence
 A templated implementation of the sequence data type.
 
 ##Remove_bad_split_good
